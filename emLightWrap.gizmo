@@ -1,6 +1,5 @@
-#! C:/Program Files/Nuke15.2v2/nuke-15.2.2.dll -nx
-version 15.2 v2
-Gizmo {
+Group {
+ name emLightWrap1
  inputs 3
  tile_color 0xf2873aff
  label "\[value in]"
