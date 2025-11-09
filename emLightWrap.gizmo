@@ -40,7 +40,7 @@ Group {
  addUserKnob {41 fringe_1 l fringe -STARTLINE T Merge3.fringe}
  addUserKnob {41 mix_1 l mix T Merge3.mix}
  addUserKnob {26 ""}
- addUserKnob {26 Autor l "" +STARTLINE T "<font color=\"grey\">emLightWrap v1.0 | emateofabregas.com | 2025 </font>"}
+ addUserKnob {26 Autor l "" +STARTLINE T "<font color=\"grey\">emLightWrap v1.0 | emateofabregas | 2025 </font>"}
 }
  Input {
   inputs 0
